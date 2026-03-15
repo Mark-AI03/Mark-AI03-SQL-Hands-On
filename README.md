@@ -30,7 +30,7 @@ This repository combines SQL programming fundamentals with modern data engineeri
 │   └── Notes/               # Course notes and statements
 ```
 
-## Environment Setup
+## Environment Setupp
 
 ### Platform & Configuration
 
